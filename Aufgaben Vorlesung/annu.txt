@@ -1,0 +1,76 @@
+Darlehen: 1000000.00
+Zinssatz: 5.00
+Tilgung: 5.00
+
+ 1. Jahr
+- Restschuld: 1000000.00
+- monatlicher Zins: 4166.67
+- monatliche Tilgung: 4166.67
+
+ 2. Jahr
+- Restschuld: 948838.10
+- monatlicher Zins: 3953.49
+- monatliche Tilgung: 4379.84
+
+ 3. Jahr
+- Restschuld: 895058.66
+- monatlicher Zins: 3729.41
+- monatliche Tilgung: 4603.92
+
+ 4. Jahr
+- Restschuld: 838527.77
+- monatlicher Zins: 3493.87
+- monatliche Tilgung: 4839.47
+
+ 5. Jahr
+- Restschuld: 779104.64
+- monatlicher Zins: 3246.27
+- monatliche Tilgung: 5087.06
+
+ 6. Jahr
+- Restschuld: 716641.32
+- monatlicher Zins: 2986.01
+- monatliche Tilgung: 5347.33
+
+ 7. Jahr
+- Restschuld: 650982.26
+- monatlicher Zins: 2712.43
+- monatliche Tilgung: 5620.91
+
+ 8. Jahr
+- Restschuld: 581963.95
+- monatlicher Zins: 2424.85
+- monatliche Tilgung: 5908.48
+
+ 9. Jahr
+- Restschuld: 509414.53
+- monatlicher Zins: 2122.56
+- monatliche Tilgung: 6210.77
+
+10. Jahr
+- Restschuld: 433153.35
+- monatlicher Zins: 1804.81
+- monatliche Tilgung: 6528.53
+
+11. Jahr
+- Restschuld: 352990.50
+- monatlicher Zins: 1470.79
+- monatliche Tilgung: 6862.54
+
+12. Jahr
+- Restschuld: 268726.37
+- monatlicher Zins: 1119.69
+- monatliche Tilgung: 7213.64
+
+13. Jahr
+- Restschuld: 180151.13
+- monatlicher Zins: 750.63
+- monatliche Tilgung: 7582.70
+
+14. Jahr
+- Restschuld: 87044.20
+- monatlicher Zins: 362.68
+- monatliche Tilgung: 7970.65
+
+
+Nach 13 Jahren und 11 Monaten wurden insgesamt 389184.10 Zinsen bezahlt!
